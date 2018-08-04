@@ -1,2 +1,2 @@
-# git-study 123456
+# git-study
 good good study study
